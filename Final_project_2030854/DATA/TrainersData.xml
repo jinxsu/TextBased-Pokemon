@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTrainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Trainer>
+    <PokemonsCollection>
+      <Pokemon>
+        <Name>Partner Pikachu</Name>
+        <status>ACTIVE</status>
+        <myMove>
+          <Name>Thunder Wave</Name>
+          <Accuracy>90</Accuracy>
+          <PP>20</PP>
+          <PP_Max>20</PP_Max>
+        </myMove>
+        <HP>405</HP>
+        <HP_MAX>135</HP_MAX>
+        <Catch_Rate>190</Catch_Rate>
+        <Status_Threshold>0</Status_Threshold>
+        <Base_Exp>112</Base_Exp>
+        <Type>ELECTRIC</Type>
+      </Pokemon>
+    </PokemonsCollection>
+    <PotionsCollection />
+    <BallsCollection>
+      <Ball>
+        <Name>Poke Ball</Name>
+        <Price>100</Price>
+        <Rate>1</Rate>
+        <Ball_value>12</Ball_value>
+        <Max_RDN>255</Max_RDN>
+        <IsMaster>false</IsMaster>
+      </Ball>
+      <Ball>
+        <Name>Poke Ball</Name>
+        <Price>100</Price>
+        <Rate>1</Rate>
+        <Ball_value>12</Ball_value>
+        <Max_RDN>255</Max_RDN>
+        <IsMaster>false</IsMaster>
+      </Ball>
+      <Ball>
+        <Name>Poke Ball</Name>
+        <Price>100</Price>
+        <Rate>1</Rate>
+        <Ball_value>12</Ball_value>
+        <Max_RDN>255</Max_RDN>
+        <IsMaster>false</IsMaster>
+      </Ball>
+      <Ball>
+        <Name>Great Ball</Name>
+        <Price>300</Price>
+        <Rate>1.5</Rate>
+        <Ball_value>8</Ball_value>
+        <Max_RDN>200</Max_RDN>
+        <IsMaster>false</IsMaster>
+      </Ball>
+      <Ball>
+        <Name>Ultra Ball</Name>
+        <Price>600</Price>
+        <Rate>2</Rate>
+        <Ball_value>12</Ball_value>
+        <Max_RDN>150</Max_RDN>
+        <IsMaster>false</IsMaster>
+      </Ball>
+      <Ball>
+        <Name>MASTER BALL</Name>
+        <Price>1000000</Price>
+        <Rate>0</Rate>
+        <Ball_value>0</Ball_value>
+        <Max_RDN>0</Max_RDN>
+        <IsMaster>true</IsMaster>
+      </Ball>
+    </BallsCollection>
+    <Name>jinx</Name>
+    <Gp>1759</Gp>
+  </Trainer>
+</ArrayOfTrainer>

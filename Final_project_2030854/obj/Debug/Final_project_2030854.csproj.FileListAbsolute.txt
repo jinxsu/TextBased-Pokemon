@@ -1,0 +1,7 @@
+C:\Users\meime\source\repos\Final_project_2030854\Final_project_2030854\obj\Debug\Final_project_2030854.csprojAssemblyReference.cache
+C:\Users\meime\source\repos\Final_project_2030854\Final_project_2030854\obj\Debug\Final_project_2030854.csproj.CoreCompileInputs.cache
+C:\Users\meime\source\repos\Final_project_2030854\Final_project_2030854\bin\Debug\Final_project_2030854.exe.config
+C:\Users\meime\source\repos\Final_project_2030854\Final_project_2030854\bin\Debug\Final_project_2030854.exe
+C:\Users\meime\source\repos\Final_project_2030854\Final_project_2030854\bin\Debug\Final_project_2030854.pdb
+C:\Users\meime\source\repos\Final_project_2030854\Final_project_2030854\obj\Debug\Final_project_2030854.exe
+C:\Users\meime\source\repos\Final_project_2030854\Final_project_2030854\obj\Debug\Final_project_2030854.pdb
