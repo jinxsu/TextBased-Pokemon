@@ -8,12 +8,18 @@ Items<|--Potions
 Items: -string name
 Items: -int price
 Items: +ToString()
-class Trainer{
 
+Ball{
+  - double rate
+  -int ball_value
+  -int max_RDN
+  -bool isMaster
+  + bool Catch()
 }
-Pokemon{
+Potions{
+  PotionType type
+}
 
-}
 
 
 
