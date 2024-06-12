@@ -16,7 +16,7 @@ class Ball{
         +Ball()
         +Catch()
     }
-class Duck{
+class Potions{
        - PotionType type
        + Potions()
     }
