@@ -76,13 +76,10 @@ class Potions{
        + Potions()
     }
 class Move{
+        - string name
 }
-class RNG{
-}
-class GameFactory{
-}
-class GameManager{
-}
+RNG<--RNG
+
 
 
 
