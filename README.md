@@ -3,23 +3,6 @@
 title: Pokemon Game Class Diagram
 ---
 classDiagram
-Items<|-- Ball
-Items<|--Potions
-Items: -string name
-Items: -int price
-Items: +ToString()
-class Ball{
-        - double rate
-        - int ball_value
-        -int max_RDN
-        - bool isMaster
-        +Ball()
-        +Catch()
-    }
-class Potions{
-       ~ PotionType type
-       + Potions()
-    }
 class Trainer{
         ~ Pokemon target
         ~ currentFighter
@@ -71,6 +54,24 @@ class Pokemon{
         +ToString()
         
 }
+Items<|-- Ball
+Items<|--Potions
+Items: -string name
+Items: -int price
+Items: +ToString()
+class Ball{
+        - double rate
+        - int ball_value
+        -int max_RDN
+        - bool isMaster
+        +Ball()
+        +Catch()
+    }
+class Potions{
+       ~ PotionType type
+       + Potions()
+    }
+
 
 
 
