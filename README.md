@@ -20,6 +20,10 @@ class Potions{
        - PotionType type
        + Potions()
     }
+class Pokemon{
+        + int[,] TypeChart$
+}
+
 
 
 
