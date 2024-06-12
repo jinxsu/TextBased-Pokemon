@@ -13,6 +13,7 @@ class Ball{
         - int ball_value
         -int max_RDN
         - bool isMaster
+        +Ball()
         +Catch()
     }
 
