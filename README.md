@@ -11,6 +11,10 @@ class Trainer{
         - List<Pokemon> pokemonsCollection
         - List<Potions> potionsCollection
         - List<Ball> ballsCollection
+        + Trainer()
+        +Reward_GP()
+        +Buy_Items()
+        + ToString()
 
         
 }
@@ -71,11 +75,6 @@ class Potions{
        ~ PotionType type
        + Potions()
     }
-
-
-
-
-
 
 
 
