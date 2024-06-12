@@ -8,10 +8,12 @@ Items<|--Potions
 Items: -string name
 Items: -int price
 Items: +ToString()
-class Duck{
-        +String beakColor
-        +swim()
-        +quack()
+class Ball{
+        - double rate
+        - int ball_value
+        -int max_RDN
+        - bool isMaster
+        +Catch()
     }
 
 
