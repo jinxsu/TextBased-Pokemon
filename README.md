@@ -1,4 +1,21 @@
 ```mermaid
-flowchart LR
-  A --> B
+---
+title: Pokemon Game Class Diagram
+---
+classDiagram
+Items<|-- Ball
+Items<|--Potions
+Items: -string name
+Items: -int price
+Items: +ToString()
+class Trainer{
+
+}
+Pokemon{
+
+}
+
+
+
+
 ```
