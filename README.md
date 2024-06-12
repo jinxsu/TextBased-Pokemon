@@ -75,6 +75,14 @@ class Potions{
        ~ PotionType type
        + Potions()
     }
+class Move{
+}
+class RNG{
+}
+class GameFactory{
+}
+class GameManager{
+}
 
 
 
