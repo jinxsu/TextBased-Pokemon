@@ -17,9 +17,20 @@ class Ball{
         +Catch()
     }
 class Potions{
-       - PotionType type
+       ~ PotionType type
        + Potions()
     }
+class Trainer{
+        ~ Pokemon target
+        ~ currentFighter
+        ~ string name
+        ~ int gp
+        - List<Pokemon> pokemonsCollection
+        - List<Potions> potionsCollection
+        - List<Ball> ballsCollection
+
+        
+}
 class Pokemon{
         + int[,] TypeChart$
         + string name
